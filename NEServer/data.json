@@ -1,0 +1,50 @@
+{
+    "beverages": [
+      {
+        "id": "1",
+        "name": "green tea",
+        "rating": 7
+      },
+      {
+        "id": "2",
+        "name": "black tea",
+        "rating": 8
+      },
+      {
+        "id": "3",
+        "name": "coffee",
+        "rating": 6
+      },
+      {
+        "id": "4",
+        "name": "decaff coffee",
+        "rating": 8
+      },
+      {
+        "id": "5",
+        "name": "mocha-latte",
+        "rating": 6
+      },
+      {
+        "id": "6",
+        "name": "mocha-latte",
+        "rating": 6
+      },
+      {
+        "id": "7",
+        "name": "mocha",
+        "rating": 7
+      },
+      {
+        "id": "8",
+        "name": "mocha",
+        "rating": null
+      },
+      {
+        "id": "9",
+        "name": "mocha",
+        "rating": 6
+      }
+    ]
+  }
+  
